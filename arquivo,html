@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html lang="PT-BR">
+  <head>
+      <style>
+          body{
+            background-color:rgb(91, 49, 142) ;
+          }
+          .site{
+            width:1000px;
+            height:710px;
+          }
+          .header{
+            width:inheirit;
+            height:100px;
+            background-color: rgb(42, 19, 66);
+          }
+          .main{
+            Width:inheirit;
+            Height:560px;
+            background-color: rgb(78, 58, 90);
+          }
+          .footer{
+            width:inheirit;
+            height:50px;
+            background-color: rgb(43, 9, 79);
+          }
+          .esquerda{
+            width:200px;
+            height:inherit;
+            background-color: #49255a;
+            display:inline-block;
+            float:right;
+          }
+          .centro{
+            width:600px;
+            height:inherit;
+            background-color: #74219b;
+            display:inline-block;
+            float:right;
+          }
+          .Direita{
+            width:200px;
+            height:inheirit;
+            background-color: #937a9e;
+            display:inline-block;
+            float:right;
+          }
+      </style>
+  </head>
+  <body>
+    <div class="site">
+        <div class="header">
+
+        </div>
+        <div class="main">
+            <div class="esquerda">
+
+            </div>
+            <div class="centro">
+
+            </div>
+            <div class="direita">
+                <div class="direita1">
+
+                </div>
+                <div class="direita2">
+                    
+                </div>
+
+            </div>
+        </div>
+        <div class="footer">
+
+        </div>
+      </div>
+  </body>
+</html>
+
